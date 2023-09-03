@@ -1,2 +1,1 @@
-# manual-testing-project1
-Manual Testing Project1
+This is all about the manual testing project
